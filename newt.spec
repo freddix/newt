@@ -1,11 +1,11 @@
 Summary:	Not Erik's Windowing Toolkit - text mode windowing with slang
 Name:		newt
-Version:	0.52.14
+Version:	0.52.15
 Release:	1
 License:	LGPL
 Group:		Libraries
 Source0:	https://fedorahosted.org/releases/n/e/newt/%{name}-%{version}.tar.gz
-# Source0-md5:	eb78c6bb658b92ec7198908b5b8d0e37
+# Source0-md5:	343ee3a0fd0eacdb7c508a1e1cfabf65
 URL:		http://www.msg.com.mx/Newt/
 BuildRequires:	autoconf
 BuildRequires:	popt-devel
